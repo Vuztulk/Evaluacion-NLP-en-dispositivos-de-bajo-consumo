@@ -30,5 +30,5 @@ Este proyecto evalúa múltiples arquitecturas de lenguaje natural (BERT, GPT-2.
 ├── /Aplicacion            # Contiene la aplicacion para interactuar con los distintos modelos
 ├── /Consumo               # Scripts de evaluación del consumo de cada modelo
 ├── /Datos                 # Resultados y evaluaciones de las pruebas
-├── /GPU                   # Scripts para la ejecucion de los modelos con GPU
+└── /GPU                   # Scripts para la ejecucion de los modelos con GPU
 ```
